@@ -5,8 +5,3 @@ frames = obj.NumFrames;
 for x = 1 : frames
     imwrite(vid(:,:,:,x),strcat('frame- ',num2str(1),'.tif'), 'Compression', 'none', 'WriteMode', 'append');
 end
-
-im2gray(strcat('frame- ',num2str(1),'.tif'))
-
-im2gray(imread('frame-1.tif'));
-im2gray(imread('frame-1_SpQP.tif'));
