@@ -1,0 +1,14 @@
+Saving date:	2021-02-15	20:45:21	Starting date:	2021-02-15	20:45:10
+Image name:	Rabbit delta 78 heterozygote019.tif
+
+Processing settings:
+Gaussian blur - sigma0.500000
+Subtract stack-(minimum-)projection from entire stack and rescale intensities:
+	multiplication factor applied for rescaling =	1.000000
+Subtract stack-(median-)projection from entire stack and rescale intensities:
+	multiplication factor applied for rescaling =	1.314433
+Subtract background - radius15.000000
+
+Datafile was generated on 2021-02-15 20:45:21 by 'SpermQ Preparator', an ImageJ plug-in by Jan Niklas Hansen (jan.hansen@uni-bonn.de), see https://github.com/hansenjn/SpermQ_Preparator for details.
+The plug-in 'SpermQ Preparator' is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Plug-in version:	V0.0.2

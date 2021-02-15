@@ -1,0 +1,4 @@
+This file was generated using SpermQ_Evaluator, a java application by Jan Niklas Hansen (© 2017 - 2020) (for credits see: https://github.com/IIIImaging/SpermQ_Evaluator).
+Logfile created on:	2021-02-15	21:12:18
+
+Processing done. A file (SPQEV 20210215_211213) was created on the desktop.

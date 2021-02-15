@@ -1,0 +1,9 @@
+This file was generated using SpermQ_Evaluator, a java application by Jan Niklas Hansen (© 2017 - 2020) (for credits see: https://github.com/IIIImaging/SpermQ_Evaluator).
+Date of processing:	2021-02-15	21:12:38
+
+This file contains the frequency results for the parameter angle theta - center-of-mass of frequency spectrum:
+	Rabbit delta 78 heterozygote022_SpQP_spq_210215_210348
+Results Minimum:	11.145619
+Results Maximum:	18.059347
+Results Median:	16.323130
+Results Average:	17.409324

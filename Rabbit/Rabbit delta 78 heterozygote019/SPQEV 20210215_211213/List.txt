@@ -1,0 +1,40 @@
+This file was generated using SpermQ_Evaluator, a java application by Jan Niklas Hansen (© 2017 - 2020) (for credits see: https://github.com/IIIImaging/SpermQ_Evaluator).
+Date of processing:	2021-02-15	21:12:13
+
+This analyze contains results for the following 1 SpermQ-analysis results: 
+C:\Users\Crispian Morris\Documents\MATLAB\MDM2 Rep 2\MDM2-Sperm\Rabbit\Rabbit delta 78 heterozygote019	Rabbit delta 78 heterozygote019_SpQP_spq_210215_205359
+
+The file was Analyzed with the following SpermQ settings:
+
+Saving date:	2021-02-15	21:03:38	Analysis started:	2021-02-15	20:53:59
+Processed image:	Rabbit delta 78 heterozygote019_SpQP.tif
+
+SETTINGS: 
+	Sample rate [Hz]:	200.000000
+	Tethered sperm:	false
+	xy calibration [um]:	0.550000
+	TRACE GENERATION
+	Selected thresholding method:	Default
+	Gaussian blur for trace generation - sigma:	0.500
+	Repeat gaussian blur after binarization:	true
+	Blur only inside manual selection:	false
+	Upscale trace (fold):	3
+	Head center-of-mass added as first point of trace:	false
+	Unify start points (e.g. for tethered sperm):	false
+	XY PRECISION AND GAUSS FITS
+	Filter out points with unaccepted normal gauss fit:	false
+	Max vector length [points]:	20
+	Normal vector radius [um]:	6.000000
+	Exclude head points from correction / deletion (initial 0 points):	false
+	Smooth normal for xy fit:	true
+	SMOOTHING
+	Z smoothing method:	median
+	Accepted xy distance for fit-width-smoothing:	9.600000
+	# points before or after individual point included in xy- and fit-width-smoothing:	15
+	Maximum distance of points to find a reference vector:	6.400000
+	ADDITIONAL CALCULATIONS:
+	Curvature and dAngle Calcultion - distance of upstream reference point:	10.000000
+	Grouped timesteps for fourier transform:	200
+	Initial arclengths neglected for forier transform (µm):	0.000000
+	Head rotation matrix radius (points):	10
+

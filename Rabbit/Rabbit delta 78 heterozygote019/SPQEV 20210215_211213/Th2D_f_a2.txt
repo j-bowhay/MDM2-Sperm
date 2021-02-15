@@ -1,0 +1,9 @@
+This file was generated using SpermQ_Evaluator, a java application by Jan Niklas Hansen (© 2017 - 2020) (for credits see: https://github.com/IIIImaging/SpermQ_Evaluator).
+Date of processing:	2021-02-15	21:12:13
+
+This file contains the frequency results for the parameter angle theta - peak height of secondary frequency:
+	Rabbit delta 78 heterozygote019_SpQP_spq_210215_205359
+Results Minimum:	
+Results Maximum:	
+Results Median:	
+Results Average:	

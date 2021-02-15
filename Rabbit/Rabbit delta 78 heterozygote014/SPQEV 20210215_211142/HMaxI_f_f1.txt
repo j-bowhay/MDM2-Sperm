@@ -1,0 +1,9 @@
+This file was generated using SpermQ_Evaluator, a java application by Jan Niklas Hansen (© 2017 - 2020) (for credits see: https://github.com/IIIImaging/SpermQ_Evaluator).
+Date of processing:	2021-02-15	21:11:42
+
+This file contains the frequency results for the parameter max Intensity in head - primary frequency:
+	Rabbit delta 78 heterozygote014_SpQP_spq_210215_204725
+Results Minimum:	2.000000
+Results Maximum:	17.000000
+Results Median:	11.716418
+Results Average:	15.000000
